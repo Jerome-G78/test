@@ -1,0 +1,18 @@
+Admin
+-----
+ID : 1
+DrWho@space.com
+DrWho
+Univers4
+Voyageur de la cabine bleu, maître du temps & des messages!
+
+UPDATE `users` SET `isAdmin` = '1' WHERE `users`.`id` = 1; 
+
+Someting
+--------
+ID : 2
+Someting@soemone.com
+Someting
+Anon42
+ID : 2
+Something
